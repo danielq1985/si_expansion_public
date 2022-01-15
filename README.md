@@ -62,8 +62,11 @@ The ACS 5-Year litterally has thousands of different variables, but we will usin
 - Median home value (B25107_001E)
 - Median household income the last 12 mo (B19013_001E)
 
-Request Census data via API
+Request Census data via API, convert JSON to pandas dataframe
 ![alt_text](/notebook_pics/api_req.jpg)
+
+The demographics of our top zips
+![alt_text](/notebook_pics/demos.jpg)
 
 ## Finding our matching locations
 

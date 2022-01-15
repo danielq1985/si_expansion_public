@@ -33,7 +33,8 @@ Total frequencies for each zip code. Plot distribution.
 Total dollars spent for each zip code. Plot distribution
 ![alt_text](/notebook_pics/zip_mon.jpg)
 
-Rank each zip based on Frequency and Monetary values.
+Rank each zip based on Frequency and Monetary values. Assign score total.
+![alt_text](/notebook_pics/zip_rank.jpg)
 
 Label each zip based on rank.
 

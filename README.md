@@ -1,6 +1,6 @@
 # SI Expansion 
 
-The project is the process of finding the right location to expand to.
+The project is the process of finding the right location to expand business.
 
 ### Background
 
@@ -18,15 +18,21 @@ The company I work with has been dominating the sprinkler service industry in Co
 - Visualization: Tableau
 
 ## Where are our current top performing locations?
-The data used is from 2018-06-01-2021-09-28 of CRM data. 
+The CRM data used is from 2018-06-01-2021-09-28 dividing service calls by zip code
 
-Divide service calls by zip code. The metrics we will to find our top performing zips:
+The metrics we will use to find our top performing zips:
 - Frequency: How many times were we out to service?
 - Monetary : What was the total amount of money spent?
+
+How many zip codes are being serviced?
+
+What are the total frequencies of each zip code?
 
 Rank each zip based on Frequency and Monetary values.
 
 Label each zip based on rank.
+
+Plot Findings
 
 ## Who are our top performers?
 This will be achieved by using the public Census API retriencing demogrpahics. 

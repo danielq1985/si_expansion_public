@@ -9,7 +9,7 @@ The company I work with has been dominating the sprinkler service industry in Co
 ### Tech Used
 - Programming: Python
 - Data: Company CRM, Census API
-- Visualizing: Tableau
+- Visualization: Tableau
 
 ### Analysis Overview
 - Where are our current top performing locations?

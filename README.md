@@ -13,12 +13,12 @@ The company I work with has been dominating the sprinkler service industry in Co
 - Presenting our findings
 
 ### Tech Used
-- Programming: Python
+- Programming: Python (libraries: )
 - Data: Company CRM, Census API
 - Visualization: Tableau
 
 ## Where are our current top performing locations?
 The data used is from 2018-06-01-2021-09-28 of CRM data. 
-![alt_text](/notebook_pics/job_count.jpg)
+!(/notebook_pics/job_count.jpg)
 
 https://public.tableau.com/views/si_expansion/LongDash?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link

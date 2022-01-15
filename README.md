@@ -17,5 +17,7 @@ The company I work with has been dominating the sprinkler service industry in Co
 - Finding our matching locations
 - Presenting our findings
 
+## Where are our current top performing locations?
+
 
 https://public.tableau.com/views/si_expansion/LongDash?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link

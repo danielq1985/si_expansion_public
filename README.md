@@ -62,6 +62,8 @@ The ACS 5-Year litterally has thousands of different variables, but we will usin
 - Median home value (B25107_001E)
 - Median household income the last 12 mo (B19013_001E)
 
+![alt_text](/notebook_pics/api_req.jpg)
+
 ## Finding our matching locations
 
 ## Presenting our findings

@@ -1,5 +1,8 @@
 # SI Expansion 
 
+The process of finding where to expand a companies locations.
+
+### Background
 
 
 

@@ -30,10 +30,10 @@ How many zip codes are being serviced?
 Total frequencies for each zip code. Plot distribution.
 ![alt_text](/notebook_pics/zip_freq.jpg)
 
-Both dataframes were then mereged into 'df_f_m'
-
 Total dollars spent for each zip code. Plot distribution
 ![alt_text](/notebook_pics/zip_mon.jpg)
+
+Both dataframes were then mereged into 'df_f_m'
 
 Rank each zip based on Frequency and Monetary values. Assign score total.
 ![alt_text](/notebook_pics/zip_rank.jpg)

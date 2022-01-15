@@ -56,7 +56,7 @@ Specific dataset used: American Community Survey 5-Year Data (2009-2019)
 - The 5-year estimates from the ACS are "period" estimates that represent data collected over a period of time. The primary advantage of using multiyear estimates is the increased statistical reliability of the data for less populated areas and small population subgroups.
 
 The ACS 5-Year litterally has thousands of different variables, but we will using:
-- Total population (B01001_001E)
+- Total population (B01001_001E) 
 - Median age (B01002_001E)
 - Home age median (B25035_001E) 
 - Median home value (B25107_001E)
@@ -69,6 +69,8 @@ The demographics of our top zips
 ![alt_text](/notebook_pics/demos.jpg)
 
 ## Finding our matching locations
+This was achieved by creating a function that loops through all Colorado zip codes calculating the differences in demographics.
+![alt_text](/notebook_pics/function.jpg)
 
 ## Presenting our findings
 

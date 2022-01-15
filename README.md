@@ -28,6 +28,7 @@ How many zip codes are being serviced?
 ![alt_text](/notebook_pics/zip_count.jpg)
 
 Total frequencies for each zip code
+![alt_text](/notebook_pics/zip_freq.jpg)
 
 Total dollars spent for each zip code
 

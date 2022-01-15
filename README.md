@@ -27,7 +27,7 @@ The metrics we will use to find our top performing zips:
 How many zip codes are being serviced?
 ![alt_text](/notebook_pics/zip_count.jpg)
 
-Total frequencies for each zip code
+Total frequencies for each zip code. Plot distribution.
 ![alt_text](/notebook_pics/zip_freq.jpg)
 
 Total dollars spent for each zip code

@@ -41,7 +41,10 @@ Rank each zip based on Frequency and Monetary values. Assign score total.
 Label each zip based on rank.
 ![alt_text](/notebook_pics/zip_lables.jpg)
 
-Plot Findings
+Assigning rank and labels to each zip code is useful in plotting findings.
+![alt_text](/notebook_pics/zip_freq_hist.jpg)
+![alt_text](/notebook_pics/zip_mon_hist.jpg)
+
 
 ## Who are our top performers?
 This will be achieved by using the public Census API retriencing demogrpahics. 

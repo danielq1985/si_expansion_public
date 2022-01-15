@@ -1,6 +1,6 @@
 # SI Expansion 
 
-The project is the process of finding the right location to expand business.
+Finding the right location to expand business.
 
 ### Background
 

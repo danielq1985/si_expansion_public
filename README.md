@@ -20,18 +20,29 @@ The company I work with has been dominating the sprinkler service industry in Co
 ## Where are our current top performing locations?
 The data used is from 2018-06-01-2021-09-28 of CRM data. 
 
-### 1.
 Divide service calls by zip code. The metrics we will to find our top performing zips:
 - Frequency: How many times were we out to service?
 - Monetary : What was the total amount of money spent?
 
-### 2. 
 Rank each zip based on Frequency and Monetary values.
 
-### 3.
 Label each zip based on rank.
 
 ## Who are our top performers?
+This will be achieved by using the public Census API retriencing demogrpahics. 
+
+Specific dataset used: American Community Survey 5-Year Data (2009-2019)
+
+** "The American Community Survey (ACS) is an ongoing survey that provides data every year -- giving communities the current information they need to plan investments and services. The ACS covers a broad range of topics about social, economic, demographic, and housing characteristics of the U.S. population.
+
+The 5-year estimates from the ACS are "period" estimates that represent data collected over a period of time. The primary advantage of using multiyear estimates is the increased statistical reliability of the data for less populated areas and small population subgroups." **
+
+The ACS 5-Year litterally has thousands of different variables, but we will using:
+- Total population (B01001_001E)
+- Median age (B01002_001E)
+- Home age median (B25035_001E) 
+- Median home value (B25107_001E)
+- Median household income the last 12 mo (B19013_001E)
 
 ## Finding our matching locations
 

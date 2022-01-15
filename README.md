@@ -30,7 +30,8 @@ How many zip codes are being serviced?
 Total frequencies for each zip code. Plot distribution.
 ![alt_text](/notebook_pics/zip_freq.jpg)
 
-Total dollars spent for each zip code
+Total dollars spent for each zip code. Plot distribution
+![alt_text](/notebook_pics/zip_mon.jpg)
 
 Rank each zip based on Frequency and Monetary values.
 

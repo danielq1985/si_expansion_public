@@ -1,10 +1,10 @@
 # SI Expansion 
 
-The process of finding where to expand a companies locations.
+The project is the process of finding the right location to expand to.
 
 ### Background
 
-
+The company I work with has been dominating the sprinkler service industry in Colorado Springs for the last 10 years. The 5-year plan is to expand to another location in a simalar market. With Colorado having 511 zip codes the question is, "Where do we go next?" 
 
 
 

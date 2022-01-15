@@ -25,6 +25,7 @@ The metrics we will use to find our top performing zips:
 - Monetary : What was the total amount of money spent?
 
 How many zip codes are being serviced?
+![alt_text](/notebook_pics/zip_count.jpg)
 
 What are the total frequencies of each zip code?
 

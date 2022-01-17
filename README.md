@@ -71,10 +71,15 @@ Result:
 #### **Procedure:**
 - Loop through all Colorado zips and calculate the difference in demographics
   - Each of our top zips will be used individually
-  - Example: 
-  ![alt text](/images/zip_diff_chart.jpg)
-  - Using a percent differnce so that each variable carries the same proportion
-- r
+  - Example:
+![alt text](/images/zip_diff_chart.jpg)
+  - Using a percent differnce to ensure each demographic variable difference is in proportion to on another
+- Concat each dataset to one another
+- Pivot the data creating an average of percent differences ('mean_diffs')
+- Determine best location by:
+  - Find zip code(s) with the lowest percent difference
+  - Find zip code(s) that occur more than once in dataset
+ 
 
 ## Presenting our findings
 

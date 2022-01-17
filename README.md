@@ -18,6 +18,22 @@ The company I work with has been dominating the sprinkler service industry in Co
 - Visualization: Tableau
 
 ## Where are our current top performing locations?
+Question:
+Data:
+Findings:
+Procedure:
+- Group data by zip codes
+- Agg groups by counting appointments per zip group
+- Agg groups by dollar total per zip group
+- Merge dataframes
+- Rank each zip group based on frequency and monetary vales
+  - This was achieved splitting each group into quartiles and assigning a score
+  - Example: A zip with the highest dollar amount gets scored 1, being in the top quartile
+- Assign label to each zip based on frequency and monetary values
+  - Example: Zip code A has rankings 1 frequency and 1 monetarty giving it a score total of 2 is labeled 'Top'
+  - Example: Zip code C has a ranking of 1 for freq and 2 for monetary giving it a score total of 3 labeled 'Mid'
+  - 
+
 The CRM data used is from 2018-06-01-2021-09-28 dividing service calls by zip code
 
 The metrics we will use to find our top performing zips:

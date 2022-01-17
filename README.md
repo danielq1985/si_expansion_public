@@ -63,7 +63,6 @@ Our low performing zips have the smallest degree of variance - we can see the mi
 
 ![alt text](/images/top_zip_demo_chart.jpg)
 
-
 ## Finding our matching locations
 This was achieved by creating a function that loops through all Colorado zip codes calculating the differences in demographics.
 

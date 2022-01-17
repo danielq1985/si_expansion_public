@@ -47,7 +47,7 @@ For frequency count and monetary sum our top performing zips have the greatest d
 Our low performing zips have the smallest degree of variance - we can see the min frequency is 1 and the max is 36. This may be caused by out-of-state customers with rental properties. 
 
 ## Who are our top performers?
-This question will be answered by using demograhic data
+This question will be answered by using demograhic data.
 #### **Data:** Census - American Community Survey 5-Year Data (2009-2019)
 - The American Community Survey (ACS) is an ongoing survey that provides data every year -- giving communities the current information they need to plan investments and services. The ACS covers a broad range of topics about social, economic, demographic, and housing characteristics of the U.S. population.
 - The 5-year estimates from the ACS are "period" estimates that represent data collected over a period of time. The primary advantage of using multiyear estimates is the increased statistical reliability of the data for less populated areas and small population subgroups.
@@ -66,8 +66,12 @@ Result:
 ![alt text](/images/top_zip_demo_chart.jpg)
 
 ## Finding our matching locations
-This was achieved by creating a function that loops through all Colorado zip codes calculating the differences in demographics.
 
+#### **Procedure:**
+- Loop through all Colorado zips and calculate the difference in demographics
+  - Each of our top zips will be used individually
+  - Example: 
+    ![alt text](/images/zip_diff_chart.jpg)
 
 ## Presenting our findings
 

@@ -59,7 +59,7 @@ Our low performing zips have the smallest degree of variance - we can see the mi
   - Median home value (B25107_001E)
   - Median household income the last 12 mo (B19013_001E)
   - Owner Occupided (B07013_002E)
-- Use our top 5 performing zip codes as a filter for all 511 Colorado zip codes
+- Use our top 5 performing zip codes to filter through all 511 zip codes 
 
 ![alt text](/images/top_zip_demo_chart.jpg)
 

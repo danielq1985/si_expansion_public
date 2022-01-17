@@ -17,11 +17,11 @@ The company I work with has been dominating the sprinkler service industry in Co
 - Data: Company CRM, Census API
 - Visualization: Tableau
 
-# 01
-## Question: Where are our current top performing locations?
-## Data:
-## Findings:
-## Procedure:
+## 01
+### Question: Where are our current top performing locations?
+### Data:
+### Findings:
+### Procedure:
 - Group data by zip codes
 - Agg groups by counting appointments per zip group
 - Agg groups by dollar total per zip group

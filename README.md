@@ -35,6 +35,7 @@ The company I work with has been dominating the sprinkler service industry in Co
 ![alt text](/images/bar_groups.jpg)
 ![alt text](/images/hist_freq.jpg)
 ![alt text](/images/hist_mon.jpg)
+![alt text](/images/group_stats.jpg)
 dist plots for total freq and mon, stats for total zips
 Bar plot for group totals matplotlib
 distplot stacked/colored for groups

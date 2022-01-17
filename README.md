@@ -32,7 +32,7 @@ The company I work with has been dominating the sprinkler service industry in Co
   - Example: Zip code Y has a frequency score of 2 and a monetary score of 1 a total of 3 - then labeled 'Mid'
   - Example: Zip code Z has a frequency score of 2 and a monetary score of 3 a total of 5 - then labeled 'Low'
 - Where are our top performers?
-  - Filter data by 'Top' Performers 
+  - Filter data by 'Top' performers label
   - Sort data by frequency count and monetary sum, keeping our top 5
     - Our top performing zips: 80919, 80920, 80906, 80921, 80132
 
@@ -43,9 +43,7 @@ The company I work with has been dominating the sprinkler service industry in Co
 ![alt text](/images/group_stats.jpg)
 
 Out of 54 zip codes in service only 13 are high performing, generating the majority of company revenue. 
-
 For frequency count and monetary sum our top performing zips have the greatest degree of variance. 
-
 Our low performing zips have the smallest degree of variance - we can see the min frequency is 1 and the max is 36. This may be caused by out-of-state customers with rental properties. 
 
 ## Where are our top performers?

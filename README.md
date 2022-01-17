@@ -71,7 +71,7 @@ Result:
 - Loop through all Colorado zips and calculate the difference in demographics
   - Each of our top zips will be used individually
   - Example: 
-    ![alt text](/images/zip_diff_chart.jpg)
+    
 
 ## Presenting our findings
 

@@ -31,6 +31,10 @@ The company I work with has been dominating the sprinkler service industry in Co
   - Example: Zip code X has a frequency score of 1 and a monetary score of 1 a total of 2 - then labeled 'Top'
   - Example: Zip code Y has a frequency score of 2 and a monetary score of 1 a total of 3 - then labeled 'Mid'
   - Example: Zip code Z has a frequency score of 2 and a monetary score of 3 a total of 5 - then labeled 'Low'
+- Where are our top performers?
+  - Filter data by 'Top' Performers 
+  - Sort data by frequency count and monetary sum, keeping our top 5
+    - Our top performing zips: 80919, 80920, 80906, 80921, 80132
 
 #### **Findings:**
 ![alt text](/images/bar_groups.jpg)

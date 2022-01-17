@@ -73,6 +73,8 @@ Result:
   - Each of our top zips will be used individually
   - Example: 
   ![alt text](/images/zip_diff_chart.jpg)
+  - Using a percent differnce so that each variable carries the same proportion
+- r
 
 ## Presenting our findings
 

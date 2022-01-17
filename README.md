@@ -25,25 +25,23 @@ The metrics we will use to find our top performing zips:
 - Monetary : What was the total amount of money spent?
 
 How many zip codes are being serviced?
-![alt_text](/notebook_pics/zip_count.jpg)
+
 
 Total frequencies for each zip code. Plot distribution.
-![alt_text](/notebook_pics/zip_freq.jpg)
+
 
 Total dollars spent for each zip code. Plot distribution
-![alt_text](/notebook_pics/zip_mon.jpg)
+
 
 Both dataframes were then mereged into 'df_f_m'
 
 Rank each zip based on Frequency and Monetary values. Assign score total.
-![alt_text](/notebook_pics/zip_rank.jpg)
+
 
 Label each zip based on rank.
-![alt_text](/notebook_pics/zip_lables.jpg)
+
 
 Assigning rank and labels to each zip code is useful in plotting findings.
-![alt_text](/notebook_pics/zip_freq_hist.jpg)
-![alt_text](/notebook_pics/zip_mon_hist.jpg)
 
 
 ## Who are our top performers?
@@ -63,14 +61,14 @@ The ACS 5-Year litterally has thousands of different variables, but we will usin
 - Median household income the last 12 mo (B19013_001E)
 
 Request Census data via API, convert JSON to pandas dataframe
-![alt_text](/notebook_pics/api_req.jpg)
+
 
 The demographics of our top zips
-![alt_text](/notebook_pics/demos.jpg)
+
 
 ## Finding our matching locations
 This was achieved by creating a function that loops through all Colorado zip codes calculating the differences in demographics.
-![alt_text](/notebook_pics/function.jpg)
+
 
 ## Presenting our findings
 

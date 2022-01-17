@@ -63,6 +63,7 @@ This question will be answered by using demograhic data.
 - Use our top 5 performing zip codes to filter through all 511 zip codes 
 
 Result:
+
 ![alt text](/images/top_zip_demo_chart.jpg)
 
 ## Finding our matching locations
@@ -71,7 +72,7 @@ Result:
 - Loop through all Colorado zips and calculate the difference in demographics
   - Each of our top zips will be used individually
   - Example: 
-    
+  ![alt text](/images/zip_diff_chart.jpg)
 
 ## Presenting our findings
 

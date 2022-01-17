@@ -62,6 +62,7 @@ This question will be answered by using demograhic data
   - Owner Occupided (B07013_002E)
 - Use our top 5 performing zip codes to filter through all 511 zip codes 
 
+Result:
 ![alt text](/images/top_zip_demo_chart.jpg)
 
 ## Finding our matching locations

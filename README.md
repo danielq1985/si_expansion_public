@@ -74,16 +74,16 @@ Result:
   - Example:
 ![alt text](/images/zip_diff_chart.jpg)
   - Using a percent differnce to ensure each demographic variable difference is in proportion to on another
-  - Sort data ascending keeping top 10 results
 - Concat each dataset to one another
 - Pivot the data creating an average of percent differences ('mean_diffs')
+  - Keep top 10 lowest results for each top performing zip codes
 - Determine best location by:
-  - Find zip code(s) with the lowest percent difference
-  - Find zip code(s) that occur more than once in dataset
+  - Finding zip code(s) with the lowest percent difference
+  - Finding zip code(s) that occur more than once in dataset
 
 #### **Findings:**
 17 Zip codes occur twice in our data.
-80109 has the lowest percent differences.
+80109 has the lowest percent differences out of the 17.
 
 ## Presenting our findings
 

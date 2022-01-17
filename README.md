@@ -52,18 +52,14 @@ Our low performing zips have the smallest degree of variance - we can see the mi
 - The 5-year estimates from the ACS are "period" estimates that represent data collected over a period of time. The primary advantage of using multiyear estimates is the increased statistical reliability of the data for less populated areas and small population subgroups.
 
 #### **Procedure:**
-The ACS 5-Year litterally has thousands of different variables, but we will using:
-- Total population (B01001_001E) 
-- Median age (B01002_001E)
-- Home age median (B25035_001E) 
-- Median home value (B25107_001E)
-- Median household income the last 12 mo (B19013_001E)
-- Owner Occupided (B07013_002E)
+- Retrieve data for the following demographics:
+  - Total population (B01001_001E) 
+  - Median age (B01002_001E)
+  - Home age median (B25035_001E) 
+  - Median home value (B25107_001E)
+  - Median household income the last 12 mo (B19013_001E)
+  - Owner Occupided (B07013_002E)
 
-Request Census data via API, convert JSON to pandas dataframe
-
-
-The demographics of our top zips
 
 
 ## Finding our matching locations

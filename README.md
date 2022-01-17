@@ -27,7 +27,7 @@ The company I work with has been dominating the sprinkler service industry in Co
 - Rank each zip group based on frequency and monetary vales
   - This was achieved splitting each group into quartiles and assigning a score
   - Example: A zip group with the highest total dollar amount gets scored 1, being in the top quartile
-- Assign label to each zip based on frequency and monetary values ('Top', 'Mid', 'Low')
+- Assign label to each zip based on frequency and monetary values - Top, Mid, Low
   - Example: Zip code X has a frequency score of 1 and a monetary score of 1 a total of 2 - then labeled 'Top'
   - Example: Zip code Y has a frequency score of 2 and a monetary score of 1 a total of 3 - then labeled 'Mid'
   - Example: Zip code Z has a frequency score of 2 and a monetary score of 3 a total of 5 - then labeled 'Low'

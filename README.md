@@ -19,7 +19,7 @@ The company I work with has been dominating the sprinkler service industry in Co
 
 ## Question: Where are our current top performing locations?
 **Data:** CRM Data (2018-06-01-2021-09-28)
-Procedure:
+**Procedure:**
 - Group data by zip codes
 - Agg groups by counting appointments per zip group
 - Agg groups by dollar total per zip group

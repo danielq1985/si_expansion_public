@@ -7,7 +7,8 @@ Finding the right location to expand business.
 The company I work with has been dominating the sprinkler service industry in Colorado Springs for the last 10 years. The 5-year plan is to expand to another location in a simalar market. With Colorado having 511 zip codes the question is, "Where do we go next?" 
 
 ### Analysis Overview
-- Where are our current top performing locations?
+- What is the performance distribution 
+  - Where are our current top performing locations?
 - Who are our top performers?
 - Finding our matching locations
 - Presenting our findings

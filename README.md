@@ -18,7 +18,7 @@ The company I work with has been dominating the sprinkler service industry in Co
 - Data: Company CRM, Census API
 - Visualization: Tableau
 
-## Question: Where are our current top performing locations?
+## How is performance distributed accross zip codes?
 #### **Data:** CRM Data (2018-06-01-2021-09-28)
 #### **Procedure:**
 - Group data by zip codes, frequency, and monetary
@@ -40,6 +40,8 @@ The company I work with has been dominating the sprinkler service industry in Co
 ![alt text](/images/hist_mon.jpg)
 
 ![alt text](/images/group_stats.jpg)
+
+## Where are our top performers?
 
 
 ## Who are our top performers?

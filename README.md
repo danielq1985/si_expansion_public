@@ -42,7 +42,7 @@ Out of 54 zip codes in service only 13 are high performing, generating the major
 
 For frequency count and monetary sum our top performing zips have the greatest degree of variance. 
 
-For our low performing zips we can see the min frequency is 1 and the max is 36. This may be caused by out-of-state customers with rental properties. 
+Our low performing zips have the smallest degree of variance - we can see the min frequency is 1 and the max is 36. This may be caused by out-of-state customers with rental properties. 
 
 ## Where are our top performers?
 

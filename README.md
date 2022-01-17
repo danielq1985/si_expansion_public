@@ -10,11 +10,11 @@ The company I work with has been dominating the sprinkler service industry in Co
 - How is performance distributed accross zip codes?
   - Where are our top performers?
 - Who are our top performers?
-- Finding our matching locations
-- Presenting our findings
+- Find matching locations
+- Present findings
 
 ### Tech Used
-- Programming: Python (libraries: )
+- Programming: Python
 - Data: Company CRM, Census API
 - Visualization: Tableau
 

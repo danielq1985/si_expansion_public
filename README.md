@@ -29,10 +29,11 @@ The company I work with has been dominating the sprinkler service industry in Co
 - Assign label to each zip based on frequency and monetary values ('Top', 'Mid', 'Low')
   - Example: Zip code X has a frequency score of 1 and a monetary score of 1 a total of 2 - then labeled 'Top'
   - Example: Zip code Y has a frequency score of 2 and a monetary score of 1 a total of 3 - then labeled 'Mid'
-  - Example: Zip code Z has a frequency score of 4 and a monetary score of 4 a total of 8 - then labeled 'Low'
+  - Example: Zip code Z has a frequency score of 2 and a monetary score of 3 a total of 5 - then labeled 'Low'
 
 #### **Findings:**
 ![alt text](/images/bar_groups.jpg)
+![alt text](/images/hist_mon.jpg)
 dist plots for total freq and mon, stats for total zips
 Bar plot for group totals matplotlib
 distplot stacked/colored for groups

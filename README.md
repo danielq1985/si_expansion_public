@@ -7,8 +7,8 @@ Finding the right location to expand business.
 The company I work with has been dominating the sprinkler service industry in Colorado Springs for the last 10 years. The 5-year plan is to expand to another location in a simalar market. With Colorado having 511 zip codes the question is, "Where do we go next?" 
 
 ### Analysis Overview
-- What is the performance distribution 
-  - Where are our current top performing locations?
+- How is performance distributed accross zip codes?
+- Where are our top performers?
 - Who are our top performers?
 - Finding our matching locations
 - Presenting our findings
@@ -34,13 +34,13 @@ The company I work with has been dominating the sprinkler service industry in Co
 
 #### **Findings:**
 ![alt text](/images/bar_groups.jpg)
+
 ![alt text](/images/hist_freq.jpg)
+
 ![alt text](/images/hist_mon.jpg)
+
 ![alt text](/images/group_stats.jpg)
-dist plots for total freq and mon, stats for total zips
-Bar plot for group totals matplotlib
-distplot stacked/colored for groups
-stats for each group
+
 
 ## Who are our top performers?
 This will be achieved by using the public Census API retriencing demogrpahics. 
@@ -57,6 +57,7 @@ The ACS 5-Year litterally has thousands of different variables, but we will usin
 - Home age median (B25035_001E) 
 - Median home value (B25107_001E)
 - Median household income the last 12 mo (B19013_001E)
+- Owner Occupided (B07013_002E)
 
 Request Census data via API, convert JSON to pandas dataframe
 

@@ -18,8 +18,8 @@ The company I work with has been dominating the sprinkler service industry in Co
 - Visualization: Tableau
 
 ## Question: Where are our current top performing locations?
-### Data: CRM Data (2018-06-01-2021-09-28)
-### Procedure:
+Data: CRM Data (2018-06-01-2021-09-28)
+Procedure:
 - Group data by zip codes
 - Agg groups by counting appointments per zip group
 - Agg groups by dollar total per zip group
@@ -30,8 +30,11 @@ The company I work with has been dominating the sprinkler service industry in Co
 - Assign label to each zip based on frequency and monetary values ('Top', 'Mid', 'Low')
   - Example: Zip code A has rankings 1 frequency and 1 monetarty giving it a score total of 2 is labeled 'Top'
 
-### Findings:
-
+Findings:
+dist plots for total freq and mon, stats for total zips
+Bar plot for group totals matplotlib
+distplot stacked/colored for groups
+stats for each group
 
 ## Who are our top performers?
 This will be achieved by using the public Census API retriencing demogrpahics. 

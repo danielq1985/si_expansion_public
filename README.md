@@ -8,7 +8,7 @@ The company I work with has been dominating the sprinkler service industry in Co
 
 ### Analysis Overview
 - How is performance distributed accross zip codes?
-- Where are our top performers?
+  - Where are our top performers?
 - Who are our top performers?
 - Finding our matching locations
 - Presenting our findings

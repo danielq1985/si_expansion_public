@@ -17,10 +17,8 @@ The company I work with has been dominating the sprinkler service industry in Co
 - Data: Company CRM, Census API
 - Visualization: Tableau
 
-## 01
 ### Question: Where are our current top performing locations?
-### Data:
-### Findings:
+### Data: CRM Data (2018-06-01-2021-09-28)
 ### Procedure:
 - Group data by zip codes
 - Agg groups by counting appointments per zip group
@@ -28,36 +26,11 @@ The company I work with has been dominating the sprinkler service industry in Co
 - Merge dataframes
 - Rank each zip group based on frequency and monetary vales
   - This was achieved splitting each group into quartiles and assigning a score
-  - Example: A zip with the highest dollar amount gets scored 1, being in the top quartile
-- Assign label to each zip based on frequency and monetary values
+  - Example: A zip group with the highest total dollar amount gets scored 1, being in the top quartile
+- Assign label to each zip based on frequency and monetary values ('Top', 'Mid', 'Low')
   - Example: Zip code A has rankings 1 frequency and 1 monetarty giving it a score total of 2 is labeled 'Top'
-  - Example: Zip code C has a ranking of 1 for freq and 2 for monetary giving it a score total of 3 labeled 'Mid'
-  - 
 
-The CRM data used is from 2018-06-01-2021-09-28 dividing service calls by zip code
-
-The metrics we will use to find our top performing zips:
-- Frequency: How many times were we out to service?
-- Monetary : What was the total amount of money spent?
-
-How many zip codes are being serviced?
-
-
-Total frequencies for each zip code. Plot distribution.
-
-
-Total dollars spent for each zip code. Plot distribution
-
-
-Both dataframes were then mereged into 'df_f_m'
-
-Rank each zip based on Frequency and Monetary values. Assign score total.
-
-
-Label each zip based on rank.
-
-
-Assigning rank and labels to each zip code is useful in plotting findings.
+### Findings:
 
 
 ## Who are our top performers?

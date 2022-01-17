@@ -39,7 +39,10 @@ The company I work with has been dominating the sprinkler service industry in Co
 ![alt text](/images/group_stats.jpg)
 
 Out of 54 zip codes in service only 13 are high performing, generating the majority of company revenue. 
+
 For frequency count and monetary sum our top performing zips have the greatest degree of variance. 
+
+For our low performing zips we can see the min frequency is 1 and the max is 36. This may be caused by out-of-state customers with rental properties. 
 
 ## Where are our top performers?
 

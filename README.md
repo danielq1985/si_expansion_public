@@ -31,6 +31,7 @@ The company I work with has been dominating the sprinkler service industry in Co
   - Example: Zip code A has rankings 1 frequency and 1 monetarty giving it a score total of 2 is labeled 'Top'
 
 #### **Findings:**
+![alt text](/images/bar_groups.jpg)
 dist plots for total freq and mon, stats for total zips
 Bar plot for group totals matplotlib
 distplot stacked/colored for groups

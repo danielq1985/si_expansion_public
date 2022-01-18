@@ -19,7 +19,7 @@ The company I work with has been dominating the sprinkler service industry in Co
 - Visualization: Tableau
 
 ## How is performance distributed across zip codes?
-#### **Data:** CRM Data (2018-06-01-2021-09-28)
+#### **Data:** CRM Data (2018-06-01 - 2021-09-28)
 #### **Procedure:**
 - Group data by zip codes, frequency, and monetary
   - Frequency: Total service visits

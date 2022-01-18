@@ -92,3 +92,8 @@ Result:
 ## Presenting our findings
 
 https://public.tableau.com/views/si_expansion/LongDash?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+## Resources
+- https://www.youtube.com/c/AnalyticsAriel/about
+- https://towardsdatascience.com/recency-frequency-monetary-model-with-python-and-how-sephora-uses-it-to-optimize-their-google-d6a0707c5f17
+- https://www.census.gov/data/developers/data-sets/acs-5year.html

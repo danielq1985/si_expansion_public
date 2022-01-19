@@ -1,4 +1,4 @@
-# SI Expansion 
+# Business Expansion Plan
 
 Finding the right location to expand business based on service performance and demographic data.
 

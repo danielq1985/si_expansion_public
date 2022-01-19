@@ -92,8 +92,9 @@ Result:
 80109 has the lowest percent differences out of the 17.
 
 ## Presenting our findings
+Link to Tableau Dashboard:
+https://public.tableau.com/views/si_expansion_final/LongDash?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-https://public.tableau.com/views/si_expansion/LongDash?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Resources
 - https://www.youtube.com/c/AnalyticsAriel/about

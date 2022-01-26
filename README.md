@@ -4,7 +4,7 @@ Finding the right location to expand business based on service performance and d
 
 ### Background
 
-The company I work with has been dominating the sprinkler service industry in Colorado Springs for the last 10 years. The 5-year plan is to expand to another location in a similar market. With Colorado having 511 zip codes the question is, "Where do we go next?" 
+The company I work with has been dominating the service industry in Colorado Springs for the last 10 years. The 5-year plan is to expand to another location in a similar market. With Colorado having 511 zip codes the question is, "Where do we go next?" 
 
 ### Analysis Overview
 - How is performance distributed across zip codes?
